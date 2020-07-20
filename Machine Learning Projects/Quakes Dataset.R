@@ -1,5 +1,5 @@
-#Alla Topp
-#MSDS 680 Machine learning 
+# Alla Topp
+# MSDS 680 Machine learning 
 # Assignment 1
 
 #Exploratoty analysis
