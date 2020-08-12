@@ -1,3 +1,8 @@
+# Heart Disease Data Set
+# Objective: to predict heart disease in patients.
+# Alla Topp
+
+#Reading the data 
 df <- read.table("https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data", na.strings="?", sep = "," )
 colnames(df) <- c("age","sex","cp","trestbps","chol","fbs","restecg","thalach","exang","oldpeak","slope","ca","thal","pred")
 View(df)
